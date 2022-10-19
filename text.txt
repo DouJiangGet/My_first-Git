@@ -21,3 +21,5 @@ git branch 0.2 -->创建0.2分支
 git branch 0.3 -->创建0.3分支
 git branch 0.4 -->创建0.3分支
 git branch -a -->查看所有分支 
+
+git merge 0.2 -->合并0.2分支
