@@ -1,0 +1,12 @@
+测试
+
+pwd  -->显示当前终端会话
+
+ls   -->显示当前目录下的所有文件
+
+cd   --> ..上一级目录  . --> 当前目录  目录名 -->下一级目录
+git version   -->当前版本
+git config --global user.name "Dou Jiang" -->设置名称
+git config --global user.email "1834836595@qq.com" -->设置邮箱
+git init -->初始化
+git add 文件名-->把文件加进git版本控制系统总
