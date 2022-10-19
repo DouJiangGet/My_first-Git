@@ -15,6 +15,7 @@ git commit -m "fix(text):change content" -->规范以下提交说明 fix 修复�
  
 git log -->查看提交信息 commit d62052b84a4be61a369d65e33a2d514147679954 提交唯一id 
 
+<<<<<<< HEAD
 git reset --hard (commit d62052b84a4be61a369d65e33a2d514147679954) 回退版本 重置为版本 没有后边的版本了
 
 git branch 0.2 -->创建0.2分支
@@ -23,3 +24,7 @@ git branch 0.4 -->创建0.3分支
 git branch -a -->查看所有分支 
 
 git merge 0.2 -->合并0.2分支
+这是0.2的代码 测试一个合并的效果
+
+多人合作的时候版本分支很重要
+
