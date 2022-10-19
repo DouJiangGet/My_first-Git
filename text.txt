@@ -1,12 +1,11 @@
-测试
-
+git 操作
 pwd  -->显示当前终端会话
-
 ls   -->显示当前目录下的所有文件
-
 cd   --> ..上一级目录  . --> 当前目录  目录名 -->下一级目录
 git version   -->当前版本
 git config --global user.name "Dou Jiang" -->设置名称
 git config --global user.email "1834836595@qq.com" -->设置邮箱
 git init -->初始化
-git add 文件名-->把文件加进git版本控制系统总
+git add 文件名-->把文件加进git版本控制系统中  暂时保存
+git add . -->把当前目录的全部文件加进git版本控制系统中  暂时保存
+git commit -->把临时提交的文件提交成一个固定版本  进入vim 后 输入i 进入编辑模式 输出提交名称 按esc 在输出英文的:wq
