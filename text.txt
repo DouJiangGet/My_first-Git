@@ -14,3 +14,5 @@ git commit -m "说明 " -->提交说明的简化版 跳过vim
 git commit -m "fix(text):change content" -->规范以下提交说明 fix 修复（那个文件） 改变内容
  
 git log -->查看提交信息 commit d62052b84a4be61a369d65e33a2d514147679954 提交唯一id 
+
+这是0.2的代码 测试一个合并的兄啊过
