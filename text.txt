@@ -20,3 +20,4 @@ git reset --hard (commit d62052b84a4be61a369d65e33a2d514147679954) 回退版本 
 git branch 0.2 -->创建0.2分支
 git branch 0.3 -->创建0.3分支
 git branch 0.4 -->创建0.3分支
+git branch -a -->查看所有分支 
