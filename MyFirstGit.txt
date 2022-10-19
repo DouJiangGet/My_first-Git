@@ -35,6 +35,7 @@ github
 
 git branch -M main ->创建一个main 分支 并把分支切换到main
 git remote add origin https://github.com/DouJiangGet/First-Commit.git -->添加一个远程仓库地址
+提示ssl错误可以尝试 git config --global http.sslverify false
 git push -u origin main -->推送到github
 
 
