@@ -29,3 +29,10 @@ git merge 0.2 -->合并0.2分支
 多人合作的时候版本分支很重要
 text
 
+
+
+github
+
+git branch -M main ->创建一个main 分支 并把分支切换到main
+git remote add origin https://github.com/DouJiangGet/First-Commit.git -->添加一个远程仓库地址
+git push -u origin main -->推送到github
