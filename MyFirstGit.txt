@@ -57,3 +57,5 @@ git add .
 git commit -m ""
 git push -u origin name
 
+git fetch upstream -->版本冲突 更新以下本地版本信息
+
