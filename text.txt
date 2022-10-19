@@ -8,4 +8,8 @@ git config --global user.email "1834836595@qq.com" -->设置邮箱
 git init -->初始化
 git add 文件名-->把文件加进git版本控制系统中  暂时保存
 git add . -->把当前目录的全部文件加进git版本控制系统中  暂时保存
-git commit -->把临时提交的文件提交成一个固定版本  进入vim 后 输入i 进入编辑模式 输出提交名称 按esc 在输出英文的:wq
+
+git commit -->把临时提交的文件提交成一个固定版本  进入vim 后 输入i 进入编辑模式 输出提交说明 按esc 在输出英文的:wq
+git commit -m "说明 " -->提交说明的简化版 跳过vim
+
+git log -->查看提交信息 commit d62052b84a4be61a369d65e33a2d514147679954 提交唯一id 
